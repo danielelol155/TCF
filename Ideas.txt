@@ -1,0 +1,39 @@
+pagina de gestión de biblioteca de juegos:
+	-Creación de una base de datos con juegos.
+	-Creación de usuarios
+	-modificación de la biblioteca
+	-adición de juegos a la base de datos
+	-filtrado de juegos por categoría, dispositivo y plataforma
+	-Los usuarios pueden añadir editar y borrar tags comunitarios para los juegos 
+	-posibilidad de valorar y poner reseñas a los juegos.
+	-crear listas propias para los juegos
+    -crear multiples bibliotecas
+	-lista de juegos deseados
+	-poner juegos como favoritos
+	-poder seguir y hacerte amigo de otros usuarios
+    -convertir a otros usuarios en colaboradores para poder editar tus bibliotecas.
+    -Es muy parecido al anterior(posibilidad de crear bibliotecas compartidas o convertir una biblioteca ya creada en compartida)
+	-recomendaciones personales
+	-Uso de codigos qr para busqueda de juegos especificos o para iniciar sesión.
+	-foros y comunidad
+	-soporte multiidiomas
+	-Alertas y notificaciones personalizadas
+	-(gestión de múltiples usuarios) no sé si me convence
+	-recompensas y logros dentro de la plataforma
+	-Calendarios y eventos
+	-Historial de parches y actualizaciones
+	-Control parental
+	-No sé, la vd(Integración con servicios de almacenamiento en la nube)
+    -Generador de una lista de juegos para jugar con otra/s persona/s según los las categorías favoritas de cada uno de esos usuarios o con categorías personalizadas
+
+
+    - integración de otras plataformas(redes sociales, steam, epic....) y APIs:
+    	-poder sincronizar con tus cuentas de steam, epic, etc para guardar automaticamente tus juegos en la biblioteca y en la lista de deseados(si es posible).
+	    -sincronizar los logros.
+	    -integración con redes sociales.
+	    -Integración con APIs de Metacritic u otras
+        -alertas de precios y ofertas de tus juegos guardados en tu lista de deseados
+        -gestión de versiones, actualizaciones y dlcs
+	    -Compatibilidad con asistentes virtuales
+	    -Análisis de tendencias y mercados
+        -hacerte automaticamente amigo de tus amigos guardados en otras plataformas.
